@@ -5,3 +5,7 @@
 	path = 2018
 	url = https://github.com/HackerSir/hackersir-web-2018.git
 	branch = gh-pages
+[submodule "2022"]
+	path = 2022
+	url = https://github.com/HackerSir/hackersir-web-2022.git
+	branch = gh-pages
