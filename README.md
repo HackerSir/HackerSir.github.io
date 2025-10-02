@@ -10,10 +10,10 @@ After updating hackersir-web-2022, you need to deploy the `gp-pages` with `yarn`
 ```bash
 yarn install
 yarn run build
-yarn run install
+yarn run deploy
 ```
 
-Copy the last commit number (7 digits).
+Copy the number (7 digits) of last commit.
 
 ### 2. Deploy Website
 Go to this repo. Update submodule
