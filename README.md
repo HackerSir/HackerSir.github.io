@@ -13,7 +13,7 @@ yarn run build
 yarn run deploy
 ```
 
-Copy the number (7 digits) of last commit.
+Copy the number (7 digits) of the last commit.
 
 ### 2. Deploy Website
 Go to this repo. Update submodule
@@ -35,6 +35,6 @@ git checkout <the last commit number of the gh-pages>
 ```
 cd ..
 git add 2022
-git commit -m "chores: ..."
+git commit -m "..."
 git push
 ```
